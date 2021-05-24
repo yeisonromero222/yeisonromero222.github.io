@@ -10,7 +10,8 @@
     height: 500px;
     border: 1px solid black;
     margin: auto;
-    background-color: white;
+    background-image: url('images/haragan.jfif');
+    background-size: 50%;
 }
 
 #mensaje{
